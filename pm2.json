@@ -1,0 +1,10 @@
+{
+    "apps": [
+        {
+            "name": "flowerpot",
+            "script": "./main.py",
+            "interpreter": "./.venv/bin/python",
+            "interpreter_args": "-OO"
+        }
+    ]
+}
